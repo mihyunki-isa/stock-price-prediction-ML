@@ -1,2 +1,2 @@
 # stock-price-prediction-ML
-Stock market prediction using Python and Machine Learning.
+Predict stock market prices by implementing a Linear Regression Machine Learning model, using Python.
